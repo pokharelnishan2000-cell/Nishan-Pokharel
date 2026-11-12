@@ -12,7 +12,7 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-pokharel.nishan2000%40gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white)](mailto:pokharel.nishan2000@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/nishan-pokharel-045661235)
 
 </div>
 
