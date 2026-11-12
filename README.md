@@ -1,6 +1,3 @@
-# Nishan-Pokharel
-<!-- Replace YOUR_USERNAME (in the stats section) with your GitHub username -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Nishan%20Pokharel&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Adelaide%2C%20Australia&descSize=18&descAlignY=60" alt="Nishan Pokharel banner" />
@@ -12,7 +9,8 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-pokharel.nishan2000%40gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white)](mailto:pokharel.nishan2000@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/nishan-pokharel-045661235)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0f172a?style=flat-square&logo=githubpages&logoColor=white)](https://pokharelnishan2000-cell.github.io/nishan-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
 
 </div>
 
@@ -80,8 +78,8 @@ I enjoy building software and fixing technical problems. Alongside my degree I'v
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pokharelnishan2000-cell&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokharelnishan2000-cell&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 </div>
 
@@ -89,7 +87,7 @@ I enjoy building software and fixing technical problems. Alongside my degree I'v
 
 ## 📫 Let's connect
 
-I'm open to junior IT support, web development and software development opportunities in Adelaide. Feel free to email me or connect on LinkedIn.
+I'm open to junior IT support, web development and software development opportunities in Adelaide. Have a look at my [portfolio](https://pokharelnishan2000-cell.github.io/nishan-portfolio/), email me, or connect on LinkedIn.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" alt="footer" />
